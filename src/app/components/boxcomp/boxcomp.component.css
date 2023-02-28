@@ -1,0 +1,28 @@
+.image{
+    width: 450px;
+    height: max-content;
+    margin: 60px;
+    justify-items:center;
+    opacity: 2;
+}
+.box{
+    background-color: black;
+    width:650px;
+    height: max-content;
+    margin: auto;
+    position: relative;top: 50px; left: -120px; bottom:50px; right: 120px;
+    display:flex;
+    flex-direction: column;
+    padding: 35px;
+    gap: 15px;
+}
+h2{
+    color: whitesmoke;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 250px;
+}
+p{
+    color: whitesmoke;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: justify;
+}

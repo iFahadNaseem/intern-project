@@ -1,0 +1,31 @@
+.box{
+    padding: 55px;
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+    font-family: 'Times New Roman', Times, serif;
+}
+h2{
+    font-weight: bold;
+}
+p{
+    font-size: 18px;
+    text-align: justify;
+}
+.image{
+    width: 400px;
+    height: 300px;
+}
+.img-container{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    gap: 15px;
+}
+.side-img{
+    height: auto;
+}
+.title{
+    text-align: center;
+    font-weight: 500;
+}

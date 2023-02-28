@@ -1,0 +1,113 @@
+footer {
+  background-color: black;
+  color: white;
+  /* margin-top:00px; */
+}
+
+footer a {
+  color: #b3b3b3;
+  font-size: 17px;
+  transition-duration: 0.2s;
+  cursor: pointer;
+  font-family: frank ruhl libre;
+}
+
+.copy {
+  font-size: 12px;
+  padding: 10px;
+  border-top: 1px solid #ffffff;
+}
+
+.footer-middle {
+  padding-top: 2em;
+  color: white;
+}
+ul.social-network {
+  list-style: none;
+  display: inline;
+  margin: auto;
+  /* margin-left: 0 !important;
+     padding: 0; */
+}
+
+ul.social-network li {
+  display: inline;
+  margin: 0 5px;
+}
+
+/* .social-network a.icoFacebook:hover {
+     background-color: #cacaca;
+   }
+   
+   .social-network a.icoLinkedin:hover {
+     background-color: #c0c0c0;
+   } */
+
+/* .social-network a.icoFacebook:hover i,
+   .social-network a.icoLinkedin:hover i {
+     color: #fcfcfc;
+   } */
+.icon {
+  font-size: 15px;
+  margin: auto;
+}
+
+.social-circle li a {
+  display: inline-block;
+  position: relative;
+  border-radius: 5px;
+  background-color: #222222;
+  /* left: 20px; */
+  text-align: center;
+  width: 30px;
+  height: 30px;
+  font-size: 15px;
+  margin: auto;
+  padding-top: 5px;
+  margin-top: 15px;
+}
+
+.social-circle li a:hover i,
+.triggeredHover {
+  -moz-transform: rotate(360deg);
+  -webkit-transform: rotate(360deg);
+  -ms--transform: rotate(360deg);
+  transform: rotate(360deg);
+  -webkit-transition: all 0.2s;
+  -moz-transition: all 0.2s;
+  -o-transition: all 0.2s;
+  -ms-transition: all 0.2s;
+  transition: all 0.2s;
+}
+
+.social-circle i {
+  color: #ffffff;
+  -webkit-transition: all 0.8s;
+  -moz-transition: all 0.8s;
+  -o-transition: all 0.8s;
+  -ms-transition: all 0.8s;
+  transition: all 0.8s;
+}
+
+.social-network a {
+  background-color: #f9f9f9;
+}
+.list-unstyled {
+  padding: 20px;
+}
+.img1 {
+  width: 120px;
+  cursor: pointer;
+  padding: 5px;
+  margin-left: 60px;
+}
+.text-center {
+  font-family: frank ruhl libre;
+  font-size: 17px;
+}
+h1 {
+  color: #b3b3b3;
+}
+.margin {
+  margin-bottom: 15px;
+}

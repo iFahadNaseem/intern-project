@@ -1,0 +1,21 @@
+.box1{
+    width: auto;
+    height: auto;
+    background-color: #0810fd;
+    text-align: center;
+    padding: 75px;
+}
+.h11{
+    font-size: 59px;
+    padding: 65px;
+    color: rgb(238, 238, 238);
+   
+    font-weight: 600;
+}
+.h22{
+    font-size: 39px ;
+    color: rgb(238, 238, 238);
+    font-family: frank ruhl libre;
+    font-weight: 600;
+}
+

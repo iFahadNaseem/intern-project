@@ -1,0 +1,54 @@
+.mainbox {
+    height: 692px;
+
+}
+
+.div1 {
+    height: 354px;
+    width: 517px;
+
+
+}
+
+.box1 {
+
+    display: inline-flex;
+    margin: -60px 90px;
+    gap: 90px;
+
+}
+
+.h11 {
+    font-size: 18px;
+    font-family: frank ruhl libre;
+    font-weight: 600;
+    margin-top: 40px;
+    color: black;
+
+}
+
+.h12 {
+    font-size: 14px;
+    color: #555555;
+    font-family: frank ruhl libre;
+    margin-top: 0px;
+    font-weight: 500;
+    letter-spacing: 1.1px;
+}
+
+img {
+    width: 524px;
+    height: 294px;
+}
+
+.txt1 {
+
+    font-family: frank ruhl libre;
+    font-weight: 600;
+    font-size: 24px;
+    margin: 100px 90px;
+}
+
+a {
+    text-decoration: none
+}
